@@ -8,7 +8,8 @@ Tampoco te eches atrás por el número de ejercicios, sabemos que son un montón
 ## Algunas pautas
 
 ### GITHUB
-- Haz un commit por cada ejercicio. El título de cada commit debe commenzar por **Ejercicio N**. 
+- Te hemos hecho llegar un repo con el código base de la prueba en zip, úsalo para realizar los ejercicios que aquí se detallan.
+- Haz un commit por cada ejercicio. El título de cada commit debe comenzar por **Ejercicio N**. 
 - No hagas commits adicionales.
 - Cuando lo tengas todo listo sube el repositorio a tu cuenta de github y pásanos el link a él para que podamos valorarte.
 
