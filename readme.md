@@ -8,7 +8,7 @@ Tampoco te eches atrás por el número de ejercicios, sabemos que son un montón
 ## Algunas pautas
 
 ### GITHUB
-- Te hemos hecho llegar un repo con el código base de la prueba en zip, úsalo para realizar los ejercicios que aquí se detallan.
+- Descarga el código base desde [aquí](https://static.govideo.live/projectgo/fe_challenge/challenge.zip). Úsalo para realizar los ejercicios que aquí se detallan
 - Haz un commit por cada ejercicio. El título de cada commit debe comenzar por **Ejercicio N**. 
 - No hagas commits adicionales.
 - Cuando lo tengas todo listo sube el repositorio a tu cuenta de github y pásanos el link a él para que podamos valorarte.
