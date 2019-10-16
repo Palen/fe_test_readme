@@ -14,7 +14,7 @@ Tampoco te eches atrás por el número de ejercicios, sabemos que son un montón
 - Cuando lo tengas todo listo sube el repositorio a tu cuenta de github y pásanos el link a él para que podamos valorarte.
 
 ### Valoraremos positivamente:
-- Que hagas la prueba en **React** o en su defecto **Vanilla JS**.
+- Que hagas la prueba en **ReactJS**
 - Que *no* añadas más *librerias*.
 - El uso de **CSS Flex**.
 
@@ -32,7 +32,7 @@ $ node start
 * Ya debes tener la api corriendo en **localhost:3001**
 
 2- App
-* En esta carpeta está el frontal. Es un scaffolding de react, pero si no quieres usar React móntatelo como quieras, pero recuerda mejor en **Vanilla JS**.
+* En esta carpeta está el frontal. Es un scaffolding de react, la mejor opción es usar React aunque no estés acostumbrado con el styling.
 * Familiarizate con App.js y App.css 
 * Ejecuta la app situándote con la terminal en su folder.
 ```
