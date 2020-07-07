@@ -1,4 +1,4 @@
-# JUGONES DE LA LIGA
+# Prueba frontend Connectivity Innovation - JUGONES DE LA LIGA
 Espero que te guste el fútbol o programar, si no esta prueba va a ser muy aburrida jeje
 
 En este ejercicio vas a tener que tocar backend y frontend, pero no te asustes si no tienes experiencia en *node* ni *expressjs*, es Javascript y verás como te resultará sencillo. 
